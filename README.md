@@ -1,31 +1,4 @@
 
-26
-
-8
-Javascript console Methods: A Cheat Sheet for Developers
-#
-javascript
-#
-typescript
-#
-webdev
-#
-console
-Javascript Cheat Sheet (4 Part Series)
-1
-28 Javascript Array Methods: A Cheat Sheet for Developer
-2
-13 Typescript Utility: A Cheat Sheet for Developer
-3
-Javascript console Methods: A Cheat Sheet for Developers
-4
-Javascript String Methods: A Cheat Sheet for Developer
-A Javascript console object is a global object that provides access to the browser's debugging console.
-
-Most of us have used console.log() to print messages to the console. but there are many other methods that we can use to debug code easily.
-
-Without wasting time, Let's learn about the console methods.
-
 info()
 It's similar to log() but used to print info messages.
 
